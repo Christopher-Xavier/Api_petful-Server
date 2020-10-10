@@ -7,7 +7,7 @@
 "Petful Shop"
 (a Petful Project)
 
-## Live App link: https://petful-client-fkynf99of.vercel.app/
+## Live App link: petful-client.christopher-xavier.vercel.app
 
 ## Client Repo: https://github.com/Christopher-Xavier/Petful-Client.git
 
