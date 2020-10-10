@@ -1,16 +1,10 @@
 # Petful Server
 
- Petful Server:
-https://github.com/Christopher-Xavier/Api_petful-Server.git
-
 ## App Name
+"my-Petful Shop"
 
-"Petful Shop"
-(a Petful Project)
 
-## Live App 
-
-client.christopher-xavier.vercel.app
+# live https://petful-client.christopher-xavier.vercel.app/
 
 ## Client Repo: https://github.com/Christopher-Xavier/Petful-Client.git
 
